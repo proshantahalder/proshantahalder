@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm Proshanta Halder
 
-- 🔭 I'm currently working on [your current projects or areas of focus]
-- 🌱 I'm currently learning [technologies, frameworks, or skills you're currently exploring]
-- 👯 I'm looking to collaborate on [types of projects or areas you're interested in collaborating on]
-- 💬 Ask me about [your areas of expertise or topics you're knowledgeable about]
-- 📫 How to reach me: [your contact information, e.g., email, LinkedIn, Twitter]
-- 😄 Pronouns: [your preferred pronouns]
-- ⚡ Fun fact: [an interesting or quirky fact about yourself]
+- 🔭 I'm currently working on developing a new Mobile Applications for our customer service team and improving the data analytics capabilities of our enterprise software.
+- 🌱 I'm currently learning [React Native, Flutter, Android Studio, Swift, Kotlin, Firebase]
+- 👯 I'm looking to collaborate on [Cross-platform Mobile App Development]
+- 💬 Ask me about [Cross-platform Mobile Development, Integrating Backend Services, Mobile UI/UX Design, Mobile Performance Optimization]
+- 📫 How to reach me: []
+- 😄 Pronouns: []
+- ⚡ Fun fact: []
 
 #### 🛠 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
