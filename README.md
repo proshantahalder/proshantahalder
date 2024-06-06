@@ -4,9 +4,6 @@
 - 🌱 I'm currently learning [React Native, Flutter, Android Studio, Swift, Kotlin, Firebase]
 - 👯 I'm looking to collaborate on [Cross-platform Mobile App Development]
 - 💬 Ask me about [Cross-platform Mobile Development, Integrating Backend Services, Mobile UI/UX Design, Mobile Performance Optimization]
-- 📫 How to reach me: []
-- 😄 Pronouns: []
-- ⚡ Fun fact: []
 
 #### 🛠 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
